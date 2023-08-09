@@ -43,6 +43,7 @@ Este access token tendras que pasarlo como cabezera a las demas mas peticiones q
 
 # Crear movimiento
 ## Descripción
+En este endpoint podras crear las facturas y guardarlas en el sistema.
 
 - *url:* `/api/v1/guardarmovimiento/create/`
 - *método:* `POST`
